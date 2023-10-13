@@ -1,0 +1,17 @@
+{
+    "name": "KSHDestiny/inspire",
+    "autoload": {
+        "psr-4": {
+            "KSHDestiny\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "KSHDestiny",
+            "email": "kaungsathein.5899@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
